@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>拾忆年间博客</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://shiyinianjian.github.io/"/>
+  <updated>2021-06-10T08:11:05.353Z</updated>
+  <id>https://shiyinianjian.github.io/</id>
+  
+  <author>
+    <name>拾忆</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo ayer主题</title>
+    <link href="https://shiyinianjian.github.io/2020/09/03/hexo%20ayer%E4%B8%BB%E9%A2%98/"/>
+    <id>https://shiyinianjian.github.io/2020/09/03/hexo%20ayer%E4%B8%BB%E9%A2%98/</id>
+    <published>2020-09-03T03:45:40.000Z</published>
+    <updated>2021-06-10T08:11:05.353Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;hexo-ayer主题&quot;&gt;&lt;a href=&quot;#hexo-ayer主题&quot; class=&quot;headerlink&quot; title=&quot;hexo ayer主题&quot;&gt;&lt;/a&gt;hexo
+        
+      
+    
+    </summary>
+    
+    
+      <category term="themes" scheme="https://shiyinianjian.github.io/categories/themes/"/>
+    
+    
+      <category term="hexo" scheme="https://shiyinianjian.github.io/tags/hexo/"/>
+    
+  </entry>
+  
+</feed>
